@@ -1,0 +1,155 @@
+# Japan Streaming (video, live events, audio)
+# Catalog checked: 2026-10-14
+# Platforms: 57; unique rules: 92
+# License: MIT; attribution in NOTICE.md and sources/UPSTREAM-LICENSE
+# DNS/domain routing only; no end-to-end playback verification.
+# No generic CloudFront/Akamai/AWS parent-domain rules.
+# TVer
+DOMAIN-SUFFIX,dogatch.jp
+DOMAIN-SUFFIX,gorin.jp
+DOMAIN-SUFFIX,screens-lab.jp
+DOMAIN-SUFFIX,tver.co.jp
+DOMAIN-SUFFIX,tver.jp
+# NHK ONE
+DOMAIN-SUFFIX,nhk
+DOMAIN-SUFFIX,nhk.jp
+DOMAIN-SUFFIX,nhk.or.jp
+DOMAIN-SUFFIX,nhkworld.jp
+# NHKオンデマンド
+DOMAIN-SUFFIX,nhk-ondemand.jp
+# TBS FREE
+DOMAIN-SUFFIX,cu.tbs.co.jp
+# テレ朝動画
+DOMAIN-SUFFIX,douga.tv-asahi.co.jp
+# ネットもテレ東
+DOMAIN-SUFFIX,video.tv-tokyo.co.jp
+# カンテレドーガ
+DOMAIN-SUFFIX,ktv-smart.jp
+# ytv MyDo!
+DOMAIN-SUFFIX,ytv.co.jp
+# U-NEXT
+DOMAIN-SUFFIX,nxtv.jp
+DOMAIN-SUFFIX,unext-info.jp
+DOMAIN-SUFFIX,unext.co.jp
+DOMAIN-SUFFIX,unext.jp
+# ABEMA
+DOMAIN-SUFFIX,abema.io
+DOMAIN-SUFFIX,abema.tv
+DOMAIN-SUFFIX,abema-tv.com
+DOMAIN-SUFFIX,abematv.co.jp
+DOMAIN-SUFFIX,hayabusa.dev
+DOMAIN-SUFFIX,hayabusa.io
+DOMAIN-SUFFIX,hayabusa.media
+DOMAIN,abematv.akamaized.net
+DOMAIN,ds-linear-abematv.akamaized.net
+DOMAIN,ds-vod-abematv.akamaized.net
+DOMAIN,linear-abematv.akamaized.net
+DOMAIN,vod-abematv.akamaized.net
+# Hulu Japan
+DOMAIN-SUFFIX,hulu.jp
+# FOD／ONEsmart・TWOsmart・NEXTsmart
+DOMAIN-SUFFIX,fod.fujitv.co.jp
+# TELASA
+DOMAIN-SUFFIX,telasa.jp
+# Lemino
+DOMAIN-SUFFIX,lemino.docomo.ne.jp
+# DMM TV
+DOMAIN-SUFFIX,tv.dmm.com
+DOMAIN-SUFFIX,accounts.dmm.com
+# WOWOWオンデマンド
+DOMAIN-SUFFIX,wowow.co.jp
+# スカパー！配信／動画ストア（旧SPOOX）
+DOMAIN-SUFFIX,skyperfectv.co.jp
+# J:COM STREAM
+DOMAIN-SUFFIX,vod.myjcom.jp
+# milplus（みるプラス）
+DOMAIN-SUFFIX,milplus.jp
+# ビデオマーケット
+DOMAIN-SUFFIX,videomarket.jp
+# Rakuten TV Japan
+DOMAIN-SUFFIX,tv.rakuten.co.jp
+# 楽天Rチャンネル
+DOMAIN-SUFFIX,channel.rakuten.co.jp
+# クランクイン！ビデオ
+DOMAIN-SUFFIX,video.crank-in.net
+# dアニメストア
+DOMAIN-SUFFIX,animestore.docomo.ne.jp
+# アニメ放題
+DOMAIN-SUFFIX,animehodai.jp
+# バンダイチャンネル
+DOMAIN-SUFFIX,b-ch.com
+# AnimeFesta
+DOMAIN-SUFFIX,animefesta.iowl.jp
+# 東映特撮ファンクラブ（TTFC）
+DOMAIN-SUFFIX,tokusatsu-fc.jp
+# TSUBURAYA IMAGINATION
+DOMAIN-SUFFIX,imagination.m-78.jp
+# J SPORTSオンデマンド
+DOMAIN-SUFFIX,jsports.co.jp
+# パ・リーグTV
+DOMAIN-SUFFIX,pacificleague.com
+# バスケットLIVE
+DOMAIN-SUFFIX,basketball.mb.softbank.jp
+# ベースボールLIVE
+DOMAIN-SUFFIX,baseball.mb.softbank.jp
+# NJPW WORLD
+DOMAIN-SUFFIX,njpwworld.com
+# WRESTLE UNIVERSE
+DOMAIN-SUFFIX,wrestle-universe.com
+# STARDOM WORLD
+DOMAIN-SUFFIX,stardom-world.com
+# GIANTS TV
+DOMAIN-SUFFIX,tv.giants.jp
+# Stagecrowd
+DOMAIN-SUFFIX,stagecrowd.live
+# ZAIKO
+DOMAIN-SUFFIX,zaiko.io
+# SPWN
+DOMAIN-SUFFIX,spwn.jp
+# Streaming+（e+）
+DOMAIN-SUFFIX,eplus.jp
+# PIA LIVE STREAM
+DOMAIN-SUFFIX,pia.jp
+# FanStream／StreamPass
+DOMAIN-SUFFIX,fanstream.jp
+DOMAIN-SUFFIX,tixplus.jp
+# Bitfan Live
+DOMAIN-SUFFIX,bitfan.id
+# FANY ONLINEチケット
+DOMAIN-SUFFIX,online-ticket.yoshimoto.co.jp
+# ニコニコ動画／ニコニコ生放送
+DOMAIN-SUFFIX,nico
+DOMAIN-SUFFIX,nico.ms
+DOMAIN-SUFFIX,nicochannel.jp
+DOMAIN-SUFFIX,nicodic.jp
+DOMAIN-SUFFIX,nicomanga.jp
+DOMAIN-SUFFIX,niconico.com
+DOMAIN-SUFFIX,nicoseiga.jp
+DOMAIN-SUFFIX,nicovideo.jp
+DOMAIN-SUFFIX,nimg.jp
+DOMAIN-SUFFIX,simg.jp
+# TwitCasting／Premier Live
+DOMAIN-SUFFIX,twitcasting.tv
+# mellow-fan（旧OPENREC.tv）
+DOMAIN-SUFFIX,mellow-fan.com
+DOMAIN-SUFFIX,openrec.tv
+# SHOWROOM
+DOMAIN-SUFFIX,showroom-live.com
+# Mirrativ
+DOMAIN-SUFFIX,mirrativ.com
+# radiko
+DOMAIN-SUFFIX,radiko-cf.com
+DOMAIN-SUFFIX,radiko.jp
+DOMAIN-SUFFIX,smartstream.ne.jp
+# AWA
+DOMAIN-SUFFIX,awa.fm
+# LINE MUSIC
+DOMAIN-SUFFIX,music.line.me
+# dヒッツ
+DOMAIN-SUFFIX,dhits.docomo.ne.jp
+# music.jp（视频与音乐）
+DOMAIN-SUFFIX,music-book.jp
+# ひかりTV／ひかりTVビデオ
+DOMAIN-SUFFIX,hikaritv.net
+# テレ東BIZ
+DOMAIN-SUFFIX,txbiz.tv-tokyo.co.jp
